@@ -1,0 +1,10 @@
+[package]
+name = "complexity_lint"
+version = "0.1.0"
+authors = ["Mathijs Henquet <mathijs.henquet@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[lib]
+crate-type = ["dylib"]
